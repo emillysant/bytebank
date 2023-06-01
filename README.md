@@ -1,6 +1,7 @@
 # Bytebank
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+This project is a form to save bank transfers using a Fake API.
 
 ## Development server
 
@@ -26,8 +27,13 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 
-## Comado para inicializar a API fake do json
+## Running the fake API
 
-Entre na pasta dados e rode o codigo abaixo no terminal
+Enter the data folder and run the code below in the terminal
+```
 json-server --watch db.json
+```
+<br>
 Resources: http://localhost:3000/transferencias
+<br>
+Home: http://localhost:3000
