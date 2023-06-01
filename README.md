@@ -25,3 +25,9 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+## Comado para inicializar a API fake do json
+
+Entre na pasta dados e rode o codigo abaixo no terminal
+json-server --watch db.json
+Resources: http://localhost:3000/transferencias
