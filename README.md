@@ -1,7 +1,8 @@
 # Bytebank
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
-This project is a form to save bank transfers using a Fake API.
+<p>This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.</p>
+<p>This project is a form to save and view bank transfers using a Fake API.</p>
+<p>To run the project you need to run the command to create the API and run the command to run the angular project</p>
 
 ## Development server
 
@@ -37,3 +38,11 @@ json-server --watch db.json
 Resources: http://localhost:3000/transferencias
 <br>
 Home: http://localhost:3000
+
+## Pages
+
+### Extratos
+![image](https://github.com/emillysant/bytebank/assets/70452464/a98305eb-4298-4583-9586-1dc96ef90ab1)
+### Nova Trasnferencia
+![image](https://github.com/emillysant/bytebank/assets/70452464/cce8a748-0bd2-4a23-a865-4e9eb2d6df9c)
+
